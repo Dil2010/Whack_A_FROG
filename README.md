@@ -1,2 +1,3 @@
 # Whack_A_FROG
-#Introduction
+
+![Whack A Frog](/Whack.png)
